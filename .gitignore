@@ -1,4 +1,5 @@
 .env
+firebaseServiceAccountKey.json
 # Logs
 logs
 *.log
